@@ -1,0 +1,5 @@
+Lab1a je napravljen, sve radi kao zadano
+
+Lab2b je u upravljackoj petlji napravljen vektor koji sprema, za svaku iteraciju iznova, zadatke koje ne moze obraditi. Zatim postoji vektor koji sprema koliko se puta za redom nije izvrsio određeni zadatak pa povecava pripadajuci broj. Ako pripadajuci broj dođe na 3, pokrece se funckija upravljackaPetljaKS koja prolazi kroz sve preskocene zadatke zadnje iteracije upravljacke petlje i obraduje ih, resetirajuci broj peskocenih zadataka. Nije implementiran dio funkcije koji prolazi po vektoru s brojem preskocenih zadataka i rjesava sve zadatke koji su barem 2 puta preskoceni. Također u trenutnom kodu se pojavljuje segmentation fault.
+
+Luka Buljeta 0036539861
