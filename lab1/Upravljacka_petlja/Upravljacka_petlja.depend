@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730885241 source:/home/luka/Documents/FER/SRSV/Labosi/lab1/Upravljacka_petlja/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<thread>
+	<unistd.h>
+	<chrono>
+	<queue>
+	<mutex>
+	<climits>
+

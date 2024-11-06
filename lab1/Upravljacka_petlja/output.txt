@@ -1,0 +1,502 @@
+t	događaj
+----------------
+0	Ulaz-1: promjena ulaza
+0	Upr: započinjem obradu ulaza-1
+30	Upr: gotova obrada ulaza-1
+100	Ulaz-4: promjena ulaza
+100	Upr: započinjem obradu ulaza-4
+150	Upr: gotova obrada ulaza-4
+400	Ulaz-2: promjena ulaza
+400	Upr: započinjem obradu ulaza-2
+430	Upr: gotova obrada ulaza-2
+500	Ulaz-5: promjena ulaza
+500	Upr: započinjem obradu ulaza-5
+550	Upr: gotova obrada ulaza-5
+700	Ulaz-3: promjena ulaza
+700	Upr: započinjem obradu ulaza-3
+730	Upr: gotova obrada ulaza-3
+800	Ulaz-6: promjena ulaza
+800	Upr: započinjem obradu ulaza-6
+850	Upr: gotova obrada ulaza-6
+900	Ulaz-19: promjena ulaza
+901	Upr: započinjem obradu ulaza-19
+1000	Ulaz-1: promjena ulaza
+1100	Ulaz-7: promjena ulaza
+1400	Ulaz-2: promjena ulaza
+1401	Upr: gotova obrada ulaza-19
+1401	Upr: započinjem obradu ulaza-1
+1431	Upr: gotova obrada ulaza-1
+1431	Upr: započinjem obradu ulaza-7
+1482	Upr: gotova obrada ulaza-7
+1482	Upr: započinjem obradu ulaza-2
+1500	Ulaz-8: promjena ulaza
+1512	Upr: gotova obrada ulaza-2
+1512	Upr: započinjem obradu ulaza-8
+1562	Upr: gotova obrada ulaza-8
+1700	Ulaz-3: promjena ulaza
+1700	Upr: započinjem obradu ulaza-3
+1730	Upr: gotova obrada ulaza-3
+1800	Ulaz-9: promjena ulaza
+1800	Upr: započinjem obradu ulaza-9
+1850	Upr: gotova obrada ulaza-9
+1900	Ulaz-20: promjena ulaza
+1901	Upr: započinjem obradu ulaza-20
+2000	Ulaz-1: promjena ulaza
+2100	Ulaz-10: promjena ulaza
+2400	Ulaz-2: promjena ulaza
+2500	Ulaz-11: promjena ulaza
+2700	Ulaz-3: promjena ulaza
+2800	Ulaz-12: promjena ulaza
+2900	Ulaz-21: promjena ulaza
+3000	Ulaz-1: promjena ulaza
+3100	Ulaz-13: promjena ulaza
+3400	Ulaz-2: promjena ulaza
+3401	Upr: gotova obrada ulaza-20
+3401	Upr: započinjem obradu ulaza-1
+3431	Upr: gotova obrada ulaza-1
+3431	Upr: započinjem obradu ulaza-10
+3482	Upr: gotova obrada ulaza-10
+3482	Upr: započinjem obradu ulaza-2
+3500	Ulaz-14: promjena ulaza
+3512	Upr: gotova obrada ulaza-2
+3512	Upr: započinjem obradu ulaza-11
+3562	Upr: gotova obrada ulaza-11
+3562	Upr: započinjem obradu ulaza-3
+3593	Upr: gotova obrada ulaza-3
+3593	Upr: započinjem obradu ulaza-12
+3643	Upr: gotova obrada ulaza-12
+3643	Upr: započinjem obradu ulaza-21
+3700	Ulaz-3: promjena ulaza
+3800	Ulaz-15: promjena ulaza
+3900	Ulaz-22: promjena ulaza
+4000	Ulaz-1: promjena ulaza
+4100	Ulaz-16: promjena ulaza
+4143	Upr: gotova obrada ulaza-21
+4143	Upr: započinjem obradu ulaza-1
+4174	Upr: gotova obrada ulaza-1
+4174	Upr: započinjem obradu ulaza-13
+4224	Upr: gotova obrada ulaza-13
+4224	Upr: započinjem obradu ulaza-2
+4254	Upr: gotova obrada ulaza-2
+4254	Upr: započinjem obradu ulaza-14
+4305	Upr: gotova obrada ulaza-14
+4305	Upr: započinjem obradu ulaza-3
+4335	Upr: gotova obrada ulaza-3
+4335	Upr: započinjem obradu ulaza-15
+4385	Upr: gotova obrada ulaza-15
+4385	Upr: započinjem obradu ulaza-22
+4400	Ulaz-2: promjena ulaza
+4500	Ulaz-17: promjena ulaza
+4700	Ulaz-3: promjena ulaza
+4800	Ulaz-18: promjena ulaza
+4900	Ulaz-23: promjena ulaza
+5000	Ulaz-1: promjena ulaza
+5100	Ulaz-4: promjena ulaza
+5400	Ulaz-2: promjena ulaza
+5500	Ulaz-5: promjena ulaza
+5700	Ulaz-3: promjena ulaza
+5800	Ulaz-6: promjena ulaza
+5886	Upr: gotova obrada ulaza-22
+5886	Upr: započinjem obradu ulaza-1
+5900	Ulaz-24: promjena ulaza
+5916	Upr: gotova obrada ulaza-1
+5916	Upr: započinjem obradu ulaza-16
+5966	Upr: gotova obrada ulaza-16
+5966	Upr: započinjem obradu ulaza-2
+5996	Upr: gotova obrada ulaza-2
+5996	Upr: započinjem obradu ulaza-17
+6000	Ulaz-1: promjena ulaza
+6046	Upr: gotova obrada ulaza-17
+6046	Upr: započinjem obradu ulaza-3
+6076	Upr: gotova obrada ulaza-3
+6076	Upr: započinjem obradu ulaza-18
+6100	Ulaz-7: promjena ulaza
+6127	Upr: gotova obrada ulaza-18
+6127	Upr: započinjem obradu ulaza-23
+6400	Ulaz-2: promjena ulaza
+6500	Ulaz-8: promjena ulaza
+6627	Upr: gotova obrada ulaza-23
+6627	Upr: započinjem obradu ulaza-1
+6658	Upr: gotova obrada ulaza-1
+6658	Upr: započinjem obradu ulaza-4
+6700	Ulaz-3: promjena ulaza
+6708	Upr: gotova obrada ulaza-4
+6708	Upr: započinjem obradu ulaza-2
+6738	Upr: gotova obrada ulaza-2
+6738	Upr: započinjem obradu ulaza-5
+6788	Upr: gotova obrada ulaza-5
+6788	Upr: započinjem obradu ulaza-3
+6800	Ulaz-9: promjena ulaza
+6818	Upr: gotova obrada ulaza-3
+6818	Upr: započinjem obradu ulaza-6
+6868	Upr: gotova obrada ulaza-6
+6868	Upr: započinjem obradu ulaza-24
+6900	Ulaz-25: promjena ulaza
+7000	Ulaz-1: promjena ulaza
+7100	Ulaz-10: promjena ulaza
+7400	Ulaz-2: promjena ulaza
+7500	Ulaz-11: promjena ulaza
+7700	Ulaz-3: promjena ulaza
+7800	Ulaz-12: promjena ulaza
+7900	Ulaz-26: promjena ulaza
+8000	Ulaz-1: promjena ulaza
+8100	Ulaz-13: promjena ulaza
+8369	Upr: gotova obrada ulaza-24
+8369	Upr: započinjem obradu ulaza-1
+8399	Upr: gotova obrada ulaza-1
+8399	Upr: započinjem obradu ulaza-7
+8400	Ulaz-2: promjena ulaza
+8450	Upr: gotova obrada ulaza-7
+8450	Upr: započinjem obradu ulaza-2
+8480	Upr: gotova obrada ulaza-2
+8480	Upr: započinjem obradu ulaza-8
+8500	Ulaz-14: promjena ulaza
+8530	Upr: gotova obrada ulaza-8
+8530	Upr: započinjem obradu ulaza-3
+8561	Upr: gotova obrada ulaza-3
+8561	Upr: započinjem obradu ulaza-9
+8611	Upr: gotova obrada ulaza-9
+8611	Upr: započinjem obradu ulaza-25
+8700	Ulaz-3: promjena ulaza
+8800	Ulaz-15: promjena ulaza
+8900	Ulaz-27: promjena ulaza
+9000	Ulaz-1: promjena ulaza
+9100	Ulaz-16: promjena ulaza
+9111	Upr: gotova obrada ulaza-25
+9111	Upr: započinjem obradu ulaza-1
+9142	Upr: gotova obrada ulaza-1
+9142	Upr: započinjem obradu ulaza-10
+9192	Upr: gotova obrada ulaza-10
+9192	Upr: započinjem obradu ulaza-2
+9223	Upr: gotova obrada ulaza-2
+9223	Upr: započinjem obradu ulaza-11
+9273	Upr: gotova obrada ulaza-11
+9273	Upr: započinjem obradu ulaza-3
+9303	Upr: gotova obrada ulaza-3
+9303	Upr: započinjem obradu ulaza-12
+9353	Upr: gotova obrada ulaza-12
+9353	Upr: započinjem obradu ulaza-26
+9400	Ulaz-2: promjena ulaza
+9500	Ulaz-17: promjena ulaza
+9700	Ulaz-3: promjena ulaza
+9800	Ulaz-18: promjena ulaza
+9900	Ulaz-28: promjena ulaza
+10000	Ulaz-1: promjena ulaza
+10100	Ulaz-4: promjena ulaza
+10400	Ulaz-2: promjena ulaza
+10500	Ulaz-5: promjena ulaza
+10700	Ulaz-3: promjena ulaza
+10800	Ulaz-6: promjena ulaza
+10854	Upr: gotova obrada ulaza-26
+10854	Upr: započinjem obradu ulaza-1
+10884	Upr: gotova obrada ulaza-1
+10884	Upr: započinjem obradu ulaza-13
+10900	Ulaz-29: promjena ulaza
+10935	Upr: gotova obrada ulaza-13
+10935	Upr: započinjem obradu ulaza-2
+10965	Upr: gotova obrada ulaza-2
+10965	Upr: započinjem obradu ulaza-14
+11000	Ulaz-1: promjena ulaza
+11015	Upr: gotova obrada ulaza-14
+11015	Upr: započinjem obradu ulaza-3
+11046	Upr: gotova obrada ulaza-3
+11046	Upr: započinjem obradu ulaza-15
+11096	Upr: gotova obrada ulaza-15
+11096	Upr: započinjem obradu ulaza-27
+11100	Ulaz-7: promjena ulaza
+11400	Ulaz-2: promjena ulaza
+11500	Ulaz-8: promjena ulaza
+11597	Upr: gotova obrada ulaza-27
+11597	Upr: započinjem obradu ulaza-1
+11627	Upr: gotova obrada ulaza-1
+11627	Upr: započinjem obradu ulaza-16
+11678	Upr: gotova obrada ulaza-16
+11678	Upr: započinjem obradu ulaza-2
+11700	Ulaz-3: promjena ulaza
+11708	Upr: gotova obrada ulaza-2
+11708	Upr: započinjem obradu ulaza-17
+11758	Upr: gotova obrada ulaza-17
+11758	Upr: započinjem obradu ulaza-3
+11789	Upr: gotova obrada ulaza-3
+11789	Upr: započinjem obradu ulaza-18
+11800	Ulaz-9: promjena ulaza
+11839	Upr: gotova obrada ulaza-18
+11839	Upr: započinjem obradu ulaza-28
+11900	Ulaz-30: promjena ulaza
+12000	Ulaz-1: promjena ulaza
+12100	Ulaz-10: promjena ulaza
+12400	Ulaz-2: promjena ulaza
+12500	Ulaz-11: promjena ulaza
+12700	Ulaz-3: promjena ulaza
+12800	Ulaz-12: promjena ulaza
+12900	Ulaz-31: promjena ulaza
+13000	Ulaz-1: promjena ulaza
+13100	Ulaz-13: promjena ulaza
+13339	Upr: gotova obrada ulaza-28
+13339	Upr: započinjem obradu ulaza-1
+13369	Upr: gotova obrada ulaza-1
+13369	Upr: započinjem obradu ulaza-4
+13400	Ulaz-2: promjena ulaza
+13420	Upr: gotova obrada ulaza-4
+13420	Upr: započinjem obradu ulaza-2
+13450	Upr: gotova obrada ulaza-2
+13450	Upr: započinjem obradu ulaza-5
+13501	Upr: gotova obrada ulaza-5
+13501	Upr: započinjem obradu ulaza-3
+13500	Ulaz-14: promjena ulaza
+13531	Upr: gotova obrada ulaza-3
+13531	Upr: započinjem obradu ulaza-6
+13581	Upr: gotova obrada ulaza-6
+13581	Upr: započinjem obradu ulaza-29
+13700	Ulaz-3: promjena ulaza
+13800	Ulaz-15: promjena ulaza
+13900	Ulaz-32: promjena ulaza
+14000	Ulaz-1: promjena ulaza
+14082	Upr: gotova obrada ulaza-29
+14082	Upr: započinjem obradu ulaza-1
+14100	Ulaz-16: promjena ulaza
+14112	Upr: gotova obrada ulaza-1
+14112	Upr: započinjem obradu ulaza-7
+14162	Upr: gotova obrada ulaza-7
+14162	Upr: započinjem obradu ulaza-2
+14193	Upr: gotova obrada ulaza-2
+14193	Upr: započinjem obradu ulaza-8
+14243	Upr: gotova obrada ulaza-8
+14243	Upr: započinjem obradu ulaza-3
+14273	Upr: gotova obrada ulaza-3
+14274	Upr: započinjem obradu ulaza-9
+14324	Upr: gotova obrada ulaza-9
+14324	Upr: započinjem obradu ulaza-30
+14400	Ulaz-2: promjena ulaza
+14500	Ulaz-17: promjena ulaza
+14700	Ulaz-3: promjena ulaza
+14800	Ulaz-18: promjena ulaza
+14900	Ulaz-33: promjena ulaza
+15000	Ulaz-1: promjena ulaza
+15100	Ulaz-4: promjena ulaza
+15400	Ulaz-2: promjena ulaza
+15500	Ulaz-5: promjena ulaza
+15700	Ulaz-3: promjena ulaza
+15800	Ulaz-6: promjena ulaza
+15824	Upr: gotova obrada ulaza-30
+15824	Upr: započinjem obradu ulaza-1
+15854	Upr: gotova obrada ulaza-1
+15854	Upr: započinjem obradu ulaza-10
+15900	Ulaz-34: promjena ulaza
+15904	Upr: gotova obrada ulaza-10
+15904	Upr: započinjem obradu ulaza-2
+15934	Upr: gotova obrada ulaza-2
+15934	Upr: započinjem obradu ulaza-11
+15984	Upr: gotova obrada ulaza-11
+15984	Upr: započinjem obradu ulaza-3
+16000	Ulaz-1: promjena ulaza
+16014	Upr: gotova obrada ulaza-3
+16014	Upr: započinjem obradu ulaza-12
+16064	Upr: gotova obrada ulaza-12
+16064	Upr: započinjem obradu ulaza-31
+16100	Ulaz-7: promjena ulaza
+16400	Ulaz-2: promjena ulaza
+16500	Ulaz-8: promjena ulaza
+16565	Upr: gotova obrada ulaza-31
+16565	Upr: započinjem obradu ulaza-1
+16595	Upr: gotova obrada ulaza-1
+16595	Upr: započinjem obradu ulaza-13
+16645	Upr: gotova obrada ulaza-13
+16645	Upr: započinjem obradu ulaza-2
+16675	Upr: gotova obrada ulaza-2
+16675	Upr: započinjem obradu ulaza-14
+16700	Ulaz-3: promjena ulaza
+16726	Upr: gotova obrada ulaza-14
+16726	Upr: započinjem obradu ulaza-3
+16756	Upr: gotova obrada ulaza-3
+16756	Upr: započinjem obradu ulaza-15
+16800	Ulaz-9: promjena ulaza
+16806	Upr: gotova obrada ulaza-15
+16806	Upr: započinjem obradu ulaza-32
+16900	Ulaz-35: promjena ulaza
+17000	Ulaz-1: promjena ulaza
+17100	Ulaz-10: promjena ulaza
+17400	Ulaz-2: promjena ulaza
+17500	Ulaz-11: promjena ulaza
+17700	Ulaz-3: promjena ulaza
+17800	Ulaz-12: promjena ulaza
+17900	Ulaz-36: promjena ulaza
+18000	Ulaz-1: promjena ulaza
+18100	Ulaz-13: promjena ulaza
+18307	Upr: gotova obrada ulaza-32
+18307	Upr: započinjem obradu ulaza-1
+18337	Upr: gotova obrada ulaza-1
+18337	Upr: započinjem obradu ulaza-16
+18388	Upr: gotova obrada ulaza-16
+18388	Upr: započinjem obradu ulaza-2
+18400	Ulaz-2: promjena ulaza
+18418	Upr: gotova obrada ulaza-2
+18418	Upr: započinjem obradu ulaza-17
+18468	Upr: gotova obrada ulaza-17
+18468	Upr: započinjem obradu ulaza-3
+18498	Upr: gotova obrada ulaza-3
+18498	Upr: započinjem obradu ulaza-18
+18500	Ulaz-14: promjena ulaza
+18548	Upr: gotova obrada ulaza-18
+18548	Upr: započinjem obradu ulaza-33
+18700	Ulaz-3: promjena ulaza
+18800	Ulaz-15: promjena ulaza
+18900	Ulaz-37: promjena ulaza
+19000	Ulaz-1: promjena ulaza
+19048	Upr: gotova obrada ulaza-33
+19048	Upr: započinjem obradu ulaza-1
+19078	Upr: gotova obrada ulaza-1
+19078	Upr: započinjem obradu ulaza-4
+19100	Ulaz-16: promjena ulaza
+19128	Upr: gotova obrada ulaza-4
+19128	Upr: započinjem obradu ulaza-2
+19158	Upr: gotova obrada ulaza-2
+19158	Upr: započinjem obradu ulaza-5
+19209	Upr: gotova obrada ulaza-5
+19209	Upr: započinjem obradu ulaza-3
+19239	Upr: gotova obrada ulaza-3
+19239	Upr: započinjem obradu ulaza-6
+19289	Upr: gotova obrada ulaza-6
+19289	Upr: započinjem obradu ulaza-34
+19400	Ulaz-2: promjena ulaza
+19500	Ulaz-17: promjena ulaza
+19700	Ulaz-3: promjena ulaza
+19800	Ulaz-18: promjena ulaza
+19900	Ulaz-38: promjena ulaza
+20000	Ulaz-1: promjena ulaza
+20100	Ulaz-4: promjena ulaza
+20400	Ulaz-2: promjena ulaza
+20500	Ulaz-5: promjena ulaza
+20700	Ulaz-3: promjena ulaza
+20789	Upr: gotova obrada ulaza-34
+20789	Upr: započinjem obradu ulaza-1
+20800	Ulaz-6: promjena ulaza
+20819	Upr: gotova obrada ulaza-1
+20819	Upr: započinjem obradu ulaza-7
+20869	Upr: gotova obrada ulaza-7
+20869	Upr: započinjem obradu ulaza-2
+20899	Upr: gotova obrada ulaza-2
+20899	Upr: započinjem obradu ulaza-8
+20900	Ulaz-19: promjena ulaza
+20949	Upr: gotova obrada ulaza-8
+20949	Upr: započinjem obradu ulaza-3
+20979	Upr: gotova obrada ulaza-3
+20979	Upr: započinjem obradu ulaza-9
+21000	Ulaz-1: promjena ulaza
+21030	Upr: gotova obrada ulaza-9
+21030	Upr: započinjem obradu ulaza-35
+21100	Ulaz-7: promjena ulaza
+21400	Ulaz-2: promjena ulaza
+21500	Ulaz-8: promjena ulaza
+21530	Upr: gotova obrada ulaza-35
+21530	Upr: započinjem obradu ulaza-1
+21560	Upr: gotova obrada ulaza-1
+21560	Upr: započinjem obradu ulaza-10
+21610	Upr: gotova obrada ulaza-10
+21610	Upr: započinjem obradu ulaza-2
+21640	Upr: gotova obrada ulaza-2
+21640	Upr: započinjem obradu ulaza-11
+21690	Upr: gotova obrada ulaza-11
+21690	Upr: započinjem obradu ulaza-3
+21700	Ulaz-3: promjena ulaza
+21720	Upr: gotova obrada ulaza-3
+21720	Upr: započinjem obradu ulaza-12
+21770	Upr: gotova obrada ulaza-12
+21770	Upr: započinjem obradu ulaza-36
+21800	Ulaz-9: promjena ulaza
+21900	Ulaz-20: promjena ulaza
+22000	Ulaz-1: promjena ulaza
+22100	Ulaz-10: promjena ulaza
+22400	Ulaz-2: promjena ulaza
+22500	Ulaz-11: promjena ulaza
+22700	Ulaz-3: promjena ulaza
+22800	Ulaz-12: promjena ulaza
+22900	Ulaz-21: promjena ulaza
+23000	Ulaz-1: promjena ulaza
+23100	Ulaz-13: promjena ulaza
+23271	Upr: gotova obrada ulaza-36
+23271	Upr: započinjem obradu ulaza-1
+23301	Upr: gotova obrada ulaza-1
+23301	Upr: započinjem obradu ulaza-13
+23351	Upr: gotova obrada ulaza-13
+23351	Upr: započinjem obradu ulaza-2
+23381	Upr: gotova obrada ulaza-2
+23381	Upr: započinjem obradu ulaza-14
+23400	Ulaz-2: promjena ulaza
+23432	Upr: gotova obrada ulaza-14
+23432	Upr: započinjem obradu ulaza-3
+23462	Upr: gotova obrada ulaza-3
+23462	Upr: započinjem obradu ulaza-15
+23500	Ulaz-14: promjena ulaza
+23512	Upr: gotova obrada ulaza-15
+23512	Upr: započinjem obradu ulaza-37
+23700	Ulaz-3: promjena ulaza
+23800	Ulaz-15: promjena ulaza
+23900	Ulaz-22: promjena ulaza
+24000	Ulaz-1: promjena ulaza
+24100	Ulaz-16: promjena ulaza
+24400	Ulaz-2: promjena ulaza
+24500	Ulaz-17: promjena ulaza
+24700	Ulaz-3: promjena ulaza
+24800	Ulaz-18: promjena ulaza
+24900	Ulaz-23: promjena ulaza
+25000	Ulaz-1: promjena ulaza
+25012	Upr: gotova obrada ulaza-37
+25012	Upr: započinjem obradu ulaza-1
+25042	Upr: gotova obrada ulaza-1
+25042	Upr: započinjem obradu ulaza-16
+25093	Upr: gotova obrada ulaza-16
+25093	Upr: započinjem obradu ulaza-2
+25100	Ulaz-4: promjena ulaza
+25123	Upr: gotova obrada ulaza-2
+25123	Upr: započinjem obradu ulaza-17
+25174	Upr: gotova obrada ulaza-17
+25174	Upr: započinjem obradu ulaza-3
+25204	Upr: gotova obrada ulaza-3
+25204	Upr: započinjem obradu ulaza-18
+25254	Upr: gotova obrada ulaza-18
+25254	Upr: započinjem obradu ulaza-38
+25400	Ulaz-2: promjena ulaza
+25500	Ulaz-5: promjena ulaza
+25700	Ulaz-3: promjena ulaza
+26754	Upr: gotova obrada ulaza-38
+Ulaz-1: broj zadataka = 20, najkraće čekanje = 0 ms, prosječno čekanje = 2957.5 ms
+Ulaz-2: broj zadataka = 20, najkraće čekanje = 0 ms, prosječno čekanje = 2653.95 ms
+Ulaz-3: broj zadataka = 20, najkraće čekanje = 0 ms, prosječno čekanje = 2452.3 ms
+Ulaz-4: broj zadataka = 4, najkraće čekanje = 0 ms, prosječno čekanje = 2201 ms
+Ulaz-5: broj zadataka = 4, najkraće čekanje = 0 ms, prosječno čekanje = 1961.5 ms
+Ulaz-6: broj zadataka = 4, najkraće čekanje = 0 ms, prosječno čekanje = 1796.5 ms
+Ulaz-7: broj zadataka = 4, najkraće čekanje = 331 ms, prosječno čekanje = 2589.5 ms
+Ulaz-8: broj zadataka = 4, najkraće čekanje = 11 ms, prosječno čekanje = 2270.25 ms
+Ulaz-9: broj zadataka = 4, najkraće čekanje = 0 ms, prosječno čekanje = 2103 ms
+Ulaz-10: broj zadataka = 4, najkraće čekanje = 1331 ms, prosječno čekanje = 2896 ms
+Ulaz-11: broj zadataka = 4, najkraće čekanje = 1011 ms, prosječno čekanje = 2576.25 ms
+Ulaz-12: broj zadataka = 4, najkraće čekanje = 792 ms, prosječno čekanje = 2357 ms
+Ulaz-13: broj zadataka = 4, najkraće čekanje = 1073 ms, prosječno čekanje = 3137.5 ms
+Ulaz-14: broj zadataka = 4, najkraće čekanje = 753 ms, prosječno čekanje = 2818 ms
+Ulaz-15: broj zadataka = 4, najkraće čekanje = 534 ms, prosječno čekanje = 2598.75 ms
+Ulaz-16: broj zadataka = 4, najkraće čekanje = 1814 ms, prosječno čekanje = 3629.5 ms
+Ulaz-17: broj zadataka = 4, najkraće čekanje = 1495 ms, prosječno čekanje = 3310 ms
+Ulaz-18: broj zadataka = 4, najkraće čekanje = 1275 ms, prosječno čekanje = 3090.5 ms
+Ulaz-19: broj zadataka = 1, najkraće čekanje = 0 ms, prosječno čekanje = 0 ms
+Ulaz-20: broj zadataka = 1, najkraće čekanje = 0 ms, prosječno čekanje = 0 ms
+Ulaz-21: broj zadataka = 1, najkraće čekanje = 741 ms, prosječno čekanje = 741 ms
+Ulaz-22: broj zadataka = 1, najkraće čekanje = 484 ms, prosječno čekanje = 484 ms
+Ulaz-23: broj zadataka = 1, najkraće čekanje = 1225 ms, prosječno čekanje = 1225 ms
+Ulaz-24: broj zadataka = 1, najkraće čekanje = 967 ms, prosječno čekanje = 967 ms
+Ulaz-25: broj zadataka = 1, najkraće čekanje = 1710 ms, prosječno čekanje = 1710 ms
+Ulaz-26: broj zadataka = 1, najkraće čekanje = 1452 ms, prosječno čekanje = 1452 ms
+Ulaz-27: broj zadataka = 1, najkraće čekanje = 2195 ms, prosječno čekanje = 2195 ms
+Ulaz-28: broj zadataka = 1, najkraće čekanje = 1938 ms, prosječno čekanje = 1938 ms
+Ulaz-29: broj zadataka = 1, najkraće čekanje = 2680 ms, prosječno čekanje = 2680 ms
+Ulaz-30: broj zadataka = 1, najkraće čekanje = 2422 ms, prosječno čekanje = 2422 ms
+Ulaz-31: broj zadataka = 1, najkraće čekanje = 3163 ms, prosječno čekanje = 3163 ms
+Ulaz-32: broj zadataka = 1, najkraće čekanje = 2905 ms, prosječno čekanje = 2905 ms
+Ulaz-33: broj zadataka = 1, najkraće čekanje = 3646 ms, prosječno čekanje = 3646 ms
+Ulaz-34: broj zadataka = 1, najkraće čekanje = 3387 ms, prosječno čekanje = 3387 ms
+Ulaz-35: broj zadataka = 1, najkraće čekanje = 4128 ms, prosječno čekanje = 4128 ms
+Ulaz-36: broj zadataka = 1, najkraće čekanje = 3869 ms, prosječno čekanje = 3869 ms
+Ulaz-37: broj zadataka = 1, najkraće čekanje = 4610 ms, prosječno čekanje = 4610 ms
+Ulaz-38: broj zadataka = 1, najkraće čekanje = 5352 ms, prosječno čekanje = 5352 ms
+Ukupan broj zadataka u redu čekanja (neriješenih): 40
+Sveukupno: broj zadataka = 140, najkraće čekanje = 0 ms, prosječno čekanje = 2610.64 ms
