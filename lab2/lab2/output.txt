@@ -88,3 +88,15 @@ t	događaj	12348
 ----------------
 t	događaj	12348
 ----------------
+Statistika: Broj rješenih125
+Statistika: Broj nerješenih49
+Statistika: Broj produzetaka8
+Statistika: Broj prekida0
+Statistika: Broj rješenih37
+Statistika: Broj nerješenih7
+Statistika: Broj produzetaka3
+Statistika: Broj prekida9
+Statistika: Broj rješenih55
+Statistika: Broj nerješenih9
+Statistika: Broj produzetaka4
+Statistika: Broj prekida9
